@@ -30,6 +30,6 @@
 learner</strong> exploring web development. </p>
 <h2>Contact Me</h2>
 <p>Email: <a
-href="mailto:your . kuriajoe85@gmail. com" >your. email@example. com</a> </p>
+href=" kuriajoe85@gmail. com" >your. email@example. com</a> </p>
 <p>Feel free to reach out and connect ! </p>
 </html>
